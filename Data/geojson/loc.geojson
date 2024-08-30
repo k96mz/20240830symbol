@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "location",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "UNGIS", "location": "NewYork" }, "geometry": { "type": "Point", "coordinates": [ -73.969920072739271, 40.751220372822353 ] } },
+{ "type": "Feature", "properties": { "id": 2, "name": "UNGSC", "location": "Brindisi" }, "geometry": { "type": "Point", "coordinates": [ 17.946832979979614, 40.649461436466332 ] } },
+{ "type": "Feature", "properties": { "id": 3, "name": "United Nations Support Base", "location": "Valencia" }, "geometry": { "type": "Point", "coordinates": [ -0.48663485874926, 39.478291070153652 ] } }
+]
+}
